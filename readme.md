@@ -1,6 +1,7 @@
 # Initialiser le projet
 ```c
-sudo rm .git
+chmod 777 init.sh
+./init.sh
 ```
 
 # Comment `run` le projet
